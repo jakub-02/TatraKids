@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/drawable/ic_tatra_banka_member_72.xml" value="0.1575" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/drawable/menu_bar.xml" value="0.1415" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/drawable/transparent_background.xml" value="0.1575" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/layout/activity_payment.xml" value="0.259375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/layout/activity_setting.xml" value="0.259375" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/layout/activity_spending.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/layout/fragment_dashboard.xml" value="0.259375" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/menu/bottom_nav_menu.xml" value="0.259375" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TatraKids/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.259375" />
       </map>

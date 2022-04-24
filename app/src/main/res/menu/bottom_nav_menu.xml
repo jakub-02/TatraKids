@@ -4,20 +4,16 @@
     <item
         android:id="@+id/home"
         android:icon="@drawable/ic_home"
-        android:title="Domov"
-        android:enabled="true"/>
+        android:title="Domov" />
 
     <item
         android:id="@+id/payment"
         android:icon="@drawable/ic_payment"
-        android:title="Zaplatiť"
-        android:enabled="true"
-        />
+        android:title="Zaplatiť" />
 
     <item
         android:id="@+id/settings"
         android:icon="@drawable/ic_settings"
-        android:title="Nastavenia"
-        android:enabled="true"/>
+        android:title="Nastavenia" />
 
 </menu>
