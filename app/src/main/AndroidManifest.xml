@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TatraKids">
         <activity
+            android:name=".MapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EducationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SavingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TransactionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BalanceActivity"
+            android:exported="false" />
+        <activity
             android:name=".SettingActivity"
             android:exported="false" />
         <activity
